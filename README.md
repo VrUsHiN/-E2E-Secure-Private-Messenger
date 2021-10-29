@@ -11,7 +11,18 @@ This is how the app functions:-
 
 ## Features
 
-:star:
+:star: End to End Encryption
+
+:star: One Time View and Self Destructive Nature of Message
+
+:star: Screenshot, Screen Record and Screen Projection Restrictions
+
+:star: Tampering Alert
+
+:star: Offline Data Protection
+
+:star: Support for Text as well as any File Format
+
 
 ## Screenshots
 
