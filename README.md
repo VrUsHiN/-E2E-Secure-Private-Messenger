@@ -1,6 +1,6 @@
 # End-to-End (Encrypted) Secure Private Messenger
 
-It's a completely end to end encrypted system for messaging within the users of the application. 
+It's a completely end to end encrypted messaging app made using Flutter & Firebase, so that users can talk with each other in a utmost private manner.  
 
 ## Functional Architecture
 
