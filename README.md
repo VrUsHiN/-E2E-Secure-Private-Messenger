@@ -2,14 +2,22 @@
 
 It's a completely end to end encrypted messaging app made using Flutter & Firebase, so that users can talk with each other in a utmost private manner.  
 
-## Functional Architecture
 
-This is how the app functions:-
+## :heavy_check_mark: System Architecture
+
+Flow of the app:-
+
+![image](https://user-images.githubusercontent.com/42037845/139392697-76bdf082-bbd3-4993-a24a-5fdb9a516991.png)
+
+
+## :heavy_check_mark: Functional Architecture
+
+Functioning of the app:-
 
 ![image](https://user-images.githubusercontent.com/42037845/139391347-11d50589-5428-4c82-8c84-1f8de540bf8f.png)
 
 
-## Features
+## :heavy_check_mark: Features
 
 :star: End to End Encryption
 
@@ -24,7 +32,7 @@ This is how the app functions:-
 :star: Support for Text as well as any File Format
 
 
-## Screenshots
+## :heavy_check_mark: Screenshots
 
 ![image](https://user-images.githubusercontent.com/42037845/139390204-19c01604-105a-46da-bc00-57936b35f000.png)
 ![image](https://user-images.githubusercontent.com/42037845/139390274-0023ba66-0727-4158-abef-5a2e5c98cd0d.png)
