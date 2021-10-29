@@ -12,36 +12,15 @@ This is how the app functions:-
 
 ## Screenshots
 
-(i)	Encryption-Decryption for Text Message
-Sender-side					Receiver-side
-![image](https://user-images.githubusercontent.com/42037845/139389586-19f5f89c-3238-40ae-9465-854d227203eb.png)  ![image](https://user-images.githubusercontent.com/42037845/139389606-cf0ba260-693b-4c44-a752-9214eeb6b36f.png)
-     		 
-Server-side
-![image](https://user-images.githubusercontent.com/42037845/139389672-63b4ab62-e2d5-4593-b0d3-262d8e3740bc.png)
- 
- 
-(ii)	Encryption-Decryption for Any File Type Message
-Sender-side
-![image](https://user-images.githubusercontent.com/42037845/139389734-9c2befd1-1fb0-4169-bf70-22a71849a61f.png)
+![image](https://user-images.githubusercontent.com/42037845/139390204-19c01604-105a-46da-bc00-57936b35f000.png)
+![image](https://user-images.githubusercontent.com/42037845/139390274-0023ba66-0727-4158-abef-5a2e5c98cd0d.png)
+![image](https://user-images.githubusercontent.com/42037845/139390290-1d9cfd6a-42d1-415a-8d69-b5cc525eede9.png)
+![image](https://user-images.githubusercontent.com/42037845/139390311-71983e92-50d9-4c2f-97f3-52ee948fcb3f.png)
+![image](https://user-images.githubusercontent.com/42037845/139390344-1e50aeda-fdc4-4c81-9d45-6d2974210e0c.png)
+![image](https://user-images.githubusercontent.com/42037845/139390366-c90419aa-d184-4c18-ab64-8f081c20e8dd.png)
+![image](https://user-images.githubusercontent.com/42037845/139390400-9c00e5b8-5f35-469d-980e-0ff1491e0d5b.png)
+![image](https://user-images.githubusercontent.com/42037845/139390425-514d3280-31c2-4b58-972e-46f49cf50d83.png)
+![image](https://user-images.githubusercontent.com/42037845/139390451-ceabf125-c67a-4d8b-8b35-4266ec7f748b.png)
 
-Server-side
-![image](https://user-images.githubusercontent.com/42037845/139389761-d7f4b0f2-61a3-4949-a13b-56a636131ebc.png)
- 
-Receiver-side
-![image](https://user-images.githubusercontent.com/42037845/139389828-37fa1890-863c-4203-8a4c-d272f3622cf3.png)		 
-
-(iii)	Tampering Detection in Text Message 
-Server-side (Tampering occurs)
-![image](https://user-images.githubusercontent.com/42037845/139389870-869744e8-1fac-4752-b45f-5d30fcb06b27.png)
- 
-Sender					Receiver
-![image](https://user-images.githubusercontent.com/42037845/139389889-2116c99b-67f1-44e8-ae6d-d351ed46d42b.png)   ![image](https://user-images.githubusercontent.com/42037845/139389906-29283034-ac25-48c1-8ae1-a97a8dd85ee2.png) 
-
-(iv)	Tampering Detection in Any File Type Message
-Server-side (Tampering occurs)
-![image](https://user-images.githubusercontent.com/42037845/139389930-f99a19e5-abcb-4ed6-8486-d1d30a157a43.png)
- 
-Sender					Receiver
-![image](https://user-images.githubusercontent.com/42037845/139389957-59a40ee9-efb0-41d6-a498-a78ed498d8cf.png)   ![image](https://user-images.githubusercontent.com/42037845/139389970-1332d308-e544-4c69-ab6e-4a26fd1ec0fa.png) 
 
 
