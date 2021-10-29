@@ -6,9 +6,12 @@ It's a completely end to end encrypted system for messaging within the users of 
 
 This is how the app functions:-
 
-![image](https://user-images.githubusercontent.com/42037845/139389259-53fa7fca-d6e0-4a52-906c-110af982f8b9.png)
+![image](https://user-images.githubusercontent.com/42037845/139391347-11d50589-5428-4c82-8c84-1f8de540bf8f.png)
 
-## Features....
+
+## Features
+
+:star:
 
 ## Screenshots
 
